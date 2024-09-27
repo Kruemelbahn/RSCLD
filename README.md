@@ -8,7 +8,7 @@ was developed in FREMO to reinforce the LocoNet<br>
 Original came from here:<br>
 https://pischky.rose-intech.de/dcc/rscld/<br>
 
-There is also an extended version is available:
+There is also an extended version is available:<br>
 http://www.fremo.wisotzki.org/projekte/6fach_rscld/index.php
 
 A similar kit is available here:<br>
